@@ -8,6 +8,43 @@ Embedded Student Hackathon
 
 Each team for 48 hours implements an Embedded System 
 
+## Equipment
+
+### Development platforms
+
+* Nucleo STM32F303RET6 64 pins Development board
+
+```
+    ARM MBED enabled, Arduino Uno V3 extention
+```
+
+* Xilinx Virtex ® - 5 LX50T FPGA (BGA encapsulation, 1136 pin)
+
+```
+    Two high-speed VHDC interface, Four 8 pin connector, Multiple USB2.0 interface, HDMI video interface, Audio interface (line in, line out, microphones, headphones)
+```
+
+### Development platforms
+
+* 2 [Sensor Kits](https://www.reichelt.de/arduino-40-in-1-sensor-kit-sensors-and-modules-ard-sensor-kit-2-p159951.html?GROUPID=8244&START=0&OFFSET=16&SID=92XK25ZawQAUAAAC5KkhA45f6fe75137e2419a87a9fc7ce302b13&LANGUAGE=EN&&r=1)
+* LEDs
+* Transistors
+* Resistros
+* Shift Registers
+
+### Lab equipment
+
+* Multimeters
+* Osciloscopes
+* Power Supplies 
+* Logic Analizers
+* Soldering Irons
+* Cables & Tools
+
+### + whatever you want
+
+Each team will have a budget of 50€ to order additional hardware that you like. provide us with the list of Hardware that you want and we will buy it for you. We can order from [reichelt.com](https://reichelt.com), [conrad.com](https://conrad.com), [farnell.com](https://farnell.com) and [rs-online.com](https://de.rs-online.com/web/). Make sure your hardware is available and can be delivered in time.
+
 ## Time map
 
 Friday (24th)
@@ -48,15 +85,19 @@ Sunday (26th)
 
 ### Which hardware will be available?
 
-You can decide to either use a STM32 Nucleo Board or a FPGA for your project. We will provide you with general eletronic components (resistors, leds, capacitors...) as well as lab equipment (multimeters, solder stations ...). Furthermore, the following sensor kit will be available twice: 
+You can decide to either use a STM32 Nucleo Board or a FPGA for your project. We will provide you with general eletronic components (resistors, leds, capacitors...), two sets of [sensors](https://www.reichelt.de/arduino-40-in-1-sensor-kit-sensors-and-modules-ard-sensor-kit-2-p159951.html?GROUPID=8244&START=0&OFFSET=16&SID=92XK25ZawQAUAAAC5KkhA45f6fe75137e2419a87a9fc7ce302b13&LANGUAGE=EN&&r=1), as well as lab equipment (multimeters, solder stations ...).
 
 ### How can we order hardware?
 
-Each group will get a budget of 50€ to order additional hardware. You should think a bit about your project before the event. We can order from reichelt.com, conrad.com, farnell.com and de.rs-online.com/web/. Make sure your hardware is available and can be delivered in time. Please send us your wishlist until friday if possible.
+Each group will get a budget of 50€ to order additional hardware. You should think a bit about your project before the event. We can order from [reichelt.com](https://reichelt.com), [conrad.com](https://conrad.com), [farnell.com](https://farnell.com) and [rs-online.com](https://de.rs-online.com/web/). Make sure your hardware is available and can be delivered in time. Please send us your wishlist until friday if possible.
 
 ### I already got some hardware at home which I want to use. Can I bring it?
 
-Sure. But you will need to either use the Nucleo or the FPGA in your project. Also make sure the hardware you bring is disassembled, so no half-finished projects ;)
+Please, contact one of the organisers for more details about the case with you exact Hardware.
+
+### Can not only TU Kaiserslautern student participate?
+
+Yes, of course.
 
 ### Should I bring my Laptop?
 
@@ -69,6 +110,10 @@ We will start at 13:00 24th of May. Meeting point is building 12 5th floor.
 ### Can I go home during the event?
 
 Of course, you are free to work or rest as you please. :)
+
+### Will there be prizes?
+
+Of course they will be there
 
 ### Contact any of us if you have more question
     
