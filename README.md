@@ -81,7 +81,7 @@ Sunday (26th)
 * `3pm` Gala with **prizes**
 * `4pm` Final speech
 
-## FAQ (Finally)
+## FAQ
 
 ### Which hardware will be available?
 
