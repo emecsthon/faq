@@ -120,7 +120,7 @@ Of course they will be there
 ## Your EMECSthon Team
 * [Isabel García](mailto:igarciabanos@gmail.com)
 * [Peter Atkinson](mailto:patkinso@rhrk.uni-kl.de)
-* [Kirill Bykov](mailto:mrkirillbykov@gmail.com)
 * [Lucas Deutschmann](mailto:Lucas.Deutschmann@web.de)
 * [Lukas Krupp](mailto:lkrupp@rhrk.uni-kl.de)
+* [Kirill Bykov](mailto:mrkirillbykov@gmail.com)
 
