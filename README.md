@@ -1,4 +1,4 @@
-![EMECSthon](emecsthon-banner.jpg?raw=true "EMECSthon")
+![EMECSthon](EMECSthon-Banner.jpg?raw=true "EMECSthon")
 
 # EMECSthon
 
