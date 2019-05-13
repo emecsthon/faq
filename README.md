@@ -1,4 +1,4 @@
-![EMECSthon](https://drive.google.com/file/d/1bB1vwm2t_KdcRWSjFIq1AHMTNUmo8f5H/view?usp=sharing)
+![EMECSthon](emecsthon-banner.jpg?raw=true "EMECSthon")
 
 # EMECSthon
 
