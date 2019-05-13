@@ -6,11 +6,43 @@ Embedded Student Hackathon
 
 ## About
 
-
+Each team for 48 hours implements an Embedded System 
 
 ## Time map
 
-The even 
+Friday (24th)
+
+* `1pm` Start of EMECSthon
+* `1pm-2pm` Kick off Presentation
+* `2pm` Get familiar with all the equipment and tools
+* `Xpm` Work
+* `Xpm` Optional Presentation
+* `Xpm` Work
+* `8pm` Dinner
+* `Xpm` Work
+* `Xpm` Optional Sleep
+
+Saturday (25th)
+
+* `7am` Breakfast
+* `Xam` Work
+* `Xam` Rest
+* `12pm` Lunch
+* `Xpm` Work
+* `Xpm` Rest
+* `8pm` Dinner
+* `Xpm` Work
+* `Xpm` Optional Sleep
+
+Sunday (26th)
+
+* `7am` Breakfast
+* `Xam` Enjoy your finished project
+* `12pm` Lunch
+* `1pm` Presentation
+* `1:30pm` Jury deliberation
+* `3pm` Gala with **prizes**
+* `4pm` Final speech
 
 ## FAQ (Finally)
 
