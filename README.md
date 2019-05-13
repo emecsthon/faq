@@ -6,7 +6,7 @@ Embedded Student Hackathon
 
 ## About
 
-Each team for 48 hours implements an Embedded System 
+Teams of 2 to 4 people implements an Embedded System of any Shape and Form for 48 hours. Each team is provided with two development platforms, required lab equipment, sensors and an additional budget for desired hardware. Also, some catering will be provided. Event starts on May 24th at 13:00, teams are allowed to work on their projects until 13:00 on May 26th, which should be followed by a 5 minute presentation of the developed content. Jury includes a student, a professor and an industry representative 
 
 ## Equipment
 
@@ -24,7 +24,7 @@ Each team for 48 hours implements an Embedded System
     Two high-speed VHDC interface, Four 8 pin connector, Multiple USB2.0 interface, HDMI video interface, Audio interface (line in, line out, microphones, headphones)
 ```
 
-### Development platforms
+### Sensors and Circuit components
 
 * 2 [Sensor Kits](https://www.reichelt.de/arduino-40-in-1-sensor-kit-sensors-and-modules-ard-sensor-kit-2-p159951.html?GROUPID=8244&START=0&OFFSET=16&SID=92XK25ZawQAUAAAC5KkhA45f6fe75137e2419a87a9fc7ce302b13&LANGUAGE=EN&&r=1)
 * LEDs
