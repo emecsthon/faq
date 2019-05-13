@@ -6,7 +6,7 @@ Embedded Student Hackathon
 
 ## About
 
-Teams of 2 to 4 people implements an Embedded System of any Shape and Form for 48 hours. Each team is provided with two development platforms, required lab equipment, sensors and an additional budget for desired hardware. Also, some catering will be provided. Event starts on May 24th at 13:00, teams are allowed to work on their projects until 13:00 on May 26th, which should be followed by a 5 minute presentation of the developed content. Jury includes a student, a professor and an industry representative 
+Teams of 2 to 4 people implement an Embedded System of any Shape and Form for 48 hours. Each team is provided with two development platforms, required lab equipment, sensors and an additional budget for desired hardware. Also, some catering will be provided. Event starts on May 24th at 13:00, teams are allowed to work on their projects until 13:00 on May 26th, which should be followed by a 5 minute presentation of the developed content. Jury includes a student, a professor and an industry representative 
 
 ## Equipment
 
@@ -95,7 +95,7 @@ Each group will get a budget of 50€ to order additional hardware. You should t
 
 Please, contact one of the organisers for more details about the case with you exact Hardware.
 
-### Can not only TU Kaiserslautern student participate?
+### Can no TU Kaiserslautern student participate?
 
 Yes, of course.
 
